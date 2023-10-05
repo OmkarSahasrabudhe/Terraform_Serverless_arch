@@ -1,0 +1,13 @@
+openapi: 3.0.0
+info:
+  title: Device42 Data Normalization
+  description: 'These APIs allows Device42 client to normalize the  entities e.g. OS, Services, Hardware etc.'
+  version: v0.1
+
+tags:
+  - name: normalize
+    description: Normalize the Entities
+    externalDocs:
+      description: Find out more
+      url: ''
+paths:
